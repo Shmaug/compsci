@@ -1,0 +1,6 @@
+public class Homework1_4 {
+	public static void main(String[] args){
+		double balance = 1000;
+		double interest = .05;
+	}
+}

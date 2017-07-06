@@ -1,0 +1,5 @@
+public class Homework1_11 {
+	public static void main(String[] args){
+		String[] items = { "cat", "dog", "going to school" };
+	}
+}
